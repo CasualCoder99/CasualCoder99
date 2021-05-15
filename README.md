@@ -11,7 +11,7 @@
 Hi, I'm Shantanu Singh, a passionate self-taught Full Stack web developer and a final year student pursuing Bachelor of Technology from Moti Lal Nehru National Institute of Technology. 
 
 - 📫 How to reach me: shantanusingh1069@gmail.com
-- 📝 [Resume](https://docs.google.com/document/d/1Do6o72VSDa_yAolgGj8JeYcnBnVm7_TV6z-FCmHVKr0/edit?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/12nU7kQqVJCD6ncShRexkTuiTRRQ7vz76/view?usp=sharing)
 
 **Languages and Tools:**  
 
