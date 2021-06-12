@@ -10,7 +10,7 @@
 
 Hi, I'm Shantanu Singh, a passionate self-taught full stack web developer and a final year student pursuing Bachelor of Technology from Moti Lal Nehru National Institute of Technology. 
 
-- 🌱 I’m currently learning **Web Development using React and Django**
+- 🌱 I’m currently learning **Web Development using Django and ReactJS**
 - 💬 Ask me about **Python || OOPs || Data Structures || Algorithms**
 - 📝 [Resume](https://drive.google.com/file/d/12nU7kQqVJCD6ncShRexkTuiTRRQ7vz76/view?usp=sharing)
 - 📫 How to reach me: shantanusingh1069@gmail.com
@@ -26,7 +26,7 @@ Hi, I'm Shantanu Singh, a passionate self-taught full stack web developer and a 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CasualCoder99&count_private=true&show_icons=true&theme=great-gatsby" alt="Shantanu Singh" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CasualCoder99&count_private=true&show_icons=true&theme=great-gatsby&hide=stars" alt="Shantanu Singh" />
 <!---
 CasualCoder99/CasualCoder99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
