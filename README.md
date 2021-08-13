@@ -8,11 +8,11 @@
 <br />
 <br />
 
-Hi, I'm Shantanu Singh, a passionate self-taught full stack web developer and a final year student pursuing Bachelor of Technology from Moti Lal Nehru National Institute of Technology. 
+Hi, I'm Shantanu Singh, a passionate web developer and a techie. 
 
 - 🌱 I’m currently learning **Web Development using Django and ReactJS**
 - 💬 Ask me about **Python || OOPs || Data Structures || Algorithms**
-- 📝 [Resume](https://drive.google.com/file/d/12nU7kQqVJCD6ncShRexkTuiTRRQ7vz76/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/11vWRP6no50jNRW70JhUHgzhy9PEmt6s7/view?usp=sharing)
 - 📫 How to reach me: shantanusingh1069@gmail.com
 
 **Languages and Tools:**  
