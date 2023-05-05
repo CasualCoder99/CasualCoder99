@@ -12,7 +12,7 @@ Hi, I'm Shantanu Singh, a passionate web developer and a techie.
 
 - 🌱 I’m currently learning **Web Development using Django and ReactJS**
 - 💬 Ask me about **Python || OOPs || Data Structures || Algorithms**
-- 📝 [Resume](https://drive.google.com/file/d/11vWRP6no50jNRW70JhUHgzhy9PEmt6s7/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/15vnMA-v0Ppjpjq2S1jkE-HQRxM8vqgwI/view?usp=sharing)
 - 📫 How to reach me: shantanusingh1069@gmail.com
 
 **Languages and Tools:**  
